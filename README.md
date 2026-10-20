@@ -1,4 +1,4 @@
-# SalonFlow AZ — Public Portfolio Case Study
+﻿# SalonFlow AZ — Public Portfolio Case Study
 
 **Mobile-first booking and mini-CRM for beauty salons and laser centers in Azerbaijan.**
 
@@ -13,6 +13,11 @@ This repository is a **public portfolio case study** for SalonFlow AZ. The produ
 - **Security:** server-only privileged credentials, RLS / least-privilege public access, sensitive RPC restrictions
 - **Testing:** auth/onboarding, owner panel, booking, recovery, waitlist, notifications, reminder workers, marketplace, distribution, revenue and content flows
 - **Development style:** AI-assisted product development with extensive verification, iteration and testing
+- **Live deployment:** https://salonflowaz.com
+
+### Deployment status
+
+SalonFlow AZ is deployed as a production web application. The live deployment is useful for product and engineering demonstration, but this portfolio does **not** claim active customer traction or paying users unless separately verified by real usage data.
 
 ## Product problem
 
@@ -148,3 +153,4 @@ Email: hsefiyev520@gmail.com
 ---
 
 > Portfolio note: this repository is a case study, not the production source tree.
+
